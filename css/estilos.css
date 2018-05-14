@@ -1,10 +1,10 @@
+/* Comentarios #A99059*/
 html {
   font-family: sans-serif;
   -webkit-text-size-adjust: 100%;
       -ms-text-size-adjust: 100%;
 }
 body {
-	background-image: url("imagenes/fondo.jpg");
 	background-color: #cccccc;
 	font-family: Georgia, Times New Roman, Times, serif;
 	font-size: 30px;
@@ -45,6 +45,12 @@ p {
 	color: #000;
     line-height: 200%;
 }
+.img{
+  width: 200px;
+  height: 200px;
+  border-radius: 100px;
+  background: #F3FDFF;
+  }
 /* Arrow & Hover Animation */
 #more-arrows {
 	width: 75px;
@@ -130,6 +136,20 @@ ul {
 .bloque-tres { background-color: #91E5B2; }
 .bloque-tres h2 { color: #FFF; }
 .bloque-tres p { color: #FFF; }
+.bloque-Win { background-color: #3057A9; }
+.bloque-Win h2 { color: #FFF; }
+.bloque-Win p { color: #FFF; }
+.bloque-cuatro { background-color: #CBE908; }
+.bloque-cuatro h2 { color: #06406c; }
+.bloque-cuatro h2 a { background: none; padding: 0; font-size: normal; }
+.bloque-cuatro a { color: #FFF; font-size: 40px; font-weight: normal;font-style: normal; background-color: #06406c; padding: 10px 15px; border-radius: 10px; text-decoration: none; }
+.bloque-cuatro a:hover { text-decoration: underline; }
+.bloque-cinco { background-color: #CBE908; }
+.bloque-cinco h2 { color: #06406c; }
+.bloque-cinco h2 a { background: none; padding: 0; font-size: normal; }
+.bloque-cinco a { color: #FFF; font-size: 40px; font-weight: normal;font-style: normal; background-color: #06406c; padding: 10px 15px; border-radius: 10px; text-decoration: none; }
+.bloque-cinco a:hover { text-decoration: underline; }
+
 .div-primero{
 	    position: relative;
     margin: 0;
