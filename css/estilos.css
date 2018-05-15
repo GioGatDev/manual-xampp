@@ -139,12 +139,15 @@ ul {
 .bloque-Win { background-color: #3057A9; }
 .bloque-Win h2 { color: #FFF; }
 .bloque-Win p { color: #FFF; }
-.bloque-cuatro { background-color: #CBE908; }
+.bloque-Mac { background-color: #D94E7C; }
+.bloque-Mac h2 { color: #FFF; }
+.bloque-Mac p { color: #FFF; }
+.bloque-cuatro { background-color: #25D34E; }
 .bloque-cuatro h2 { color: #06406c; }
 .bloque-cuatro h2 a { background: none; padding: 0; font-size: normal; }
 .bloque-cuatro a { color: #FFF; font-size: 40px; font-weight: normal;font-style: normal; background-color: #06406c; padding: 10px 15px; border-radius: 10px; text-decoration: none; }
 .bloque-cuatro a:hover { text-decoration: underline; }
-.bloque-cinco { background-color: #CBE908; }
+.bloque-cinco { background-color: #37A0FA; }
 .bloque-cinco h2 { color: #06406c; }
 .bloque-cinco h2 a { background: none; padding: 0; font-size: normal; }
 .bloque-cinco a { color: #FFF; font-size: 40px; font-weight: normal;font-style: normal; background-color: #06406c; padding: 10px 15px; border-radius: 10px; text-decoration: none; }
